@@ -1,0 +1,15 @@
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635912.Jpeg?type=fullsize&maxage=140	Järnbrotsmötet_Öst_Västerut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635913.Jpeg?type=fullsize&maxage=140	Järnbrotsmötet_Öst_Österut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635298.Jpeg?type=fullsize&maxage=140	Älvsborgsbron_Söderut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39636058.Jpeg?type=fullsize&maxage=140	Olskroksmötet_Södra_Söderut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39637954.Jpeg?type=fullsize&maxage=140	Gullbergstunneln_Bom_Påfart_Kämpegatan
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635309.Jpeg?type=fullsize&maxage=140	Munkebäcksmötet_Österut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635310.Jpeg?type=fullsize&maxage=140	Munkebäcksmötet_Västerut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635923.Jpeg?type=fullsize&maxage=140	Lindholmsmötet_Öst_Sydväst
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635894.Jpeg?type=fullsize&maxage=140	Eriksbergsmotet_Öst_Österut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635902.Jpeg?type=fullsize&maxage=140	Björlandavägen_Norrleden_Norut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39635903.Jpeg?type=fullsize&maxage=140	Björlandavägen_Norrleden_Söderut
+https://api.trafikinfo.trafikverket.se/v2/Images/TrafficFlowCamera_39636195.Jpeg?type=fullsize&maxage=140	Säve_Norrleden_Nordost
+http://data.goteborg.se/TrafficCamera/v0.2/CameraImage/83a5905d-7889-4bae-bd6d-0a7e67f4f6af/11	Järntorget
+http://data.goteborg.se/TrafficCamera/v0.2/CameraImage/83a5905d-7889-4bae-bd6d-0a7e67f4f6af/23	Ullevi
+https://liveevent.se/global_business_gate/global_business_gate_1_1280.jpg Götaälv_Lindholmen
