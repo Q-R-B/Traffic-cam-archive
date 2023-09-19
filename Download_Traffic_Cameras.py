@@ -4,6 +4,7 @@ from io import BytesIO
 import time
 from datetime import datetime
 import os
+import shutil
 
 # Initialize an empty dictionary
 cameraList = {}
@@ -57,7 +58,22 @@ while True:
 
         except Exception as e:
             print(f"An error occurred: {str(e)}")
+    
+    
+    # Delete directories older than 7 days
+    current_date = datetime.now()
+    for root, dirs, files in os.walk("Pictures"):
+        for directory in dirs:
+            dir_path = os.path.join(root, directory)
+            creation_time = datetime.fromtimestamp(os.path.getctime(dir_path))
+            if (current_date - creation_time).days > 7:
+                try:
+                    shutil.rmtree(dir_path)
+                    print(f"Deleted directory: {dir_path}")
+                except Exception as e:
+                    print(f"An error occurred while deleting {dir_path}: {str(e)}")
 
+    
     # Wait for 5 minute before downloading the next image
     print(f'Saved {current_dateTime}')
     time.sleep(300)
